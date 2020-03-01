@@ -9,6 +9,7 @@ A feladat megoldásához két fajta módszert alkalmaztunk:
 A feladat opciói: 
 - első argumentum a txt fájl ami a labirintus méretét és magát a labirintust tartalmazza
 - a második argumentum a módszer kiválasztása (1 - két irányú, 2 - négy irányú)
+
 Példa meghívás MinGW kompilátor esetében: .\Labirintus.exe be2.txt 1
 
 Mindkét esetben számolódnak a lépések és az eredmény egy mátrix, amely az optimális útvonalat jelöli. 
