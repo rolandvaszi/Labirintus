@@ -1,4 +1,4 @@
-# Labirintus
+# Egér a labirintusban
 
 Ebben a backtracking problémában a főszereplőnk egy egér, aki a legrövidebb úton szeretné elérni a sajtot a labirintusban.
 Az egér kezdeti helyzete a bal felső sarok. 
